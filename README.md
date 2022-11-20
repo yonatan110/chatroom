@@ -6,4 +6,4 @@
 
 # Regular client:
 # this client including just one main user
-# so this user is the username and the password to the chat
+# so this user is the username and the password for the chat
